@@ -1,0 +1,14 @@
+{
+  "appname": "BDUBS 0817",
+  "scope": "FullAccess",
+  "clientid": "209EE531-B8D9-4731-B974-088F0A738447",
+  "buyerid": "Buyer0817",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
